@@ -1,0 +1,14 @@
+# TODO LIST:
+ - Data Science + Machine Learning common practices templates
+   - Preprocessing CSV data
+     - one-hot encoding categorical data
+     - extracting time information from formatted date strings
+     - scaling features
+   - Model construction
+     - Commonly used models (ascending order of complexity)
+     - Grid search for hyperparameter optimization
+   - Postprocessing prediction results
+     - Parity plots
+     - <a href="https://scikit-learn.org/stable/modules/permutation_importance.html">Permutation importance</a>
+     - Violin plots
+ - 
